@@ -31,7 +31,7 @@ Libraries:
 - statsmodels.tsa.arima.model 
 - warnings
 
-Language:
+Languages:
 - Python
 
 Tools:
